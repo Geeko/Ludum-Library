@@ -14,4 +14,5 @@ into the top of your script to setup your script. To see documentation type
 import ludumLibraryModule as ludum
 ludum.documentation()
 ```
-into your Python shell to print ou documentation.
+into your Python shell to print out the documentation for Ludum Library. For a full tutorial got to my website 
+https://geeko.github.io and go to the [blog](https://geeko.github.io/blog).
