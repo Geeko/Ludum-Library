@@ -21,4 +21,5 @@ https://geeko.github.io and go to the [blog](https://geeko.github.io/blog).
 Ludum uses classes to handle key parts of creating a game such as initializing the basic game variables creating and managing 
 sprites. Here's a list of all the Handler's and their functions. A check means that everything that is planned to be added is added otherwise it is a work in progress.
 * [ ] *class* initHandler: This handler class contains functions to set up the fundetmentals of a game script.
-  * [x] *function* initializeScript: This function imports turtle to the script and creates the screen this should be called at the start of every game script.
+  * [x] *function* initializeScript(): This function imports turtle to the script and creates the screen this should be called at the start of every game script.
+  * [ ] *function* initWindow(*title, color, width, height, animationSpeed*): This function creates window with the imputted title, color, width, height, and animationSpeed.
