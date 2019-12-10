@@ -15,4 +15,10 @@ import ludumLibraryModule as ludum
 ludum.documentation()
 ```
 into your Python shell to print out the documentation for Ludum Library. For a full tutorial got to my website 
-https://geeko.github.io and go to the [blog](https://geeko.github.io/blog).
+https://geeko.github.io and go to the [blog](https://geeko.github.io/blog). 
+
+## Documentation
+Ludum uses classes to handle key parts of creating a game such as initializing the basic game variables creating and managing 
+sprites. Here's a list of all the Handler's and their functions. A check means that everything that is planned to be added is added otherwise it is a work in progress.
+* [ ] *class* initHandler: This handler class contains functions to set up the fundetmentals of a game script.
+  * [x] *function* initializeScript: This function imports turtle to the script and creates the screen this should be called at the start of every game script.
